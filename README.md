@@ -1,1 +1,1 @@
-# Bioinformatics-Final-Project
+# 123A_Project_NGS
